@@ -1,4 +1,5 @@
 <?php
+// In /actions/addUser.php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $usu_nom = $_POST["usu_nom"];
     $usu_ape = $_POST["usu_ape"];

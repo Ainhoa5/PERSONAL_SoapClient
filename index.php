@@ -1,4 +1,5 @@
 <?php
+// In /index.php
 // The URL where your SOAP service is hosted
 $soapUrl = "http://localhost/projects/PERSONAL_SoapService/InsertCategoria.php?wsdl";
 
